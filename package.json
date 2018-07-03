@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build:parcel": "parcel build index.js",
+    "build:babel": "babel index.js -o index.built.js"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-wtw-im": "^1.1.0",
+    "parcel-bundler": "^1.9.4"
+  }
+}

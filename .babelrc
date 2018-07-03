@@ -1,0 +1,6 @@
+{
+  "presets": [["wtw-im", {
+    "extractFormatMessage": false,
+    "transformFormatMessage": false
+  }]]
+}
